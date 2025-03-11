@@ -53,7 +53,7 @@ Click Create Azure Virtual Machine, and ensure you have the correct Resource Gro
 
 ![image](https://github.com/user-attachments/assets/846e72e2-7f21-4e58-bf7d-307a219b9d81)
 
-Next select your image, this is the Operating System that will be running. All other settings shown in picture do not get changed. For this tutorial, I will be using this Operating System and size:
+Next select your image, this is the Operating System that will be running. All other settings shown in the picture do not get changed. For this tutorial, I will be using this Operating System and size:
 ![image](https://github.com/user-attachments/assets/badf6bef-e65f-40b7-9290-9a8b1edfc28d)
 
 For this demo, I will be using account name labuser and the password is Password1234!. In real time, this username and password combination would not be an option, but is appropriate for the demo.
@@ -67,7 +67,7 @@ Be sure to check the box at the bottom of the page or it will cause an error at 
 Click next which will bring you to Disks. Click Next again and it will bring you to Networking. Set the Virtual Network to the same one we created earlier.
 ![image](https://github.com/user-attachments/assets/41dfd4ed-32e3-4fb2-96f4-595fc5224b95)
 
-Click through to Review and Create and wait for the deployment to finish. once deployment is finished, go to Resource Groups and click on the one that we created for our network and machines. If done successfully, it will look like this, with everything needed for our virtual network and virtual machine contained in the same Resource Group:
+Click through to Review and Create and wait for the deployment to finish. Once deployment is finished, go to Resource Groups and click on the one that we created for our network and machines. If done correctly, it will look like this, with everything needed for our virtual network and virtual machine contained in the same Resource Group:
 
 ![image](https://github.com/user-attachments/assets/9606fbcf-7253-4be3-a7de-6783e6c6a3d7)
 
