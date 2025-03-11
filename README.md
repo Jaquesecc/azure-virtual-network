@@ -14,16 +14,19 @@
 
 This is the Azure Portal Home Screen. In the search bar, search for the Resource Groups, the icon looks like this:
 
-! [image]
-! [image]
+![image](https://github.com/user-attachments/assets/4f7a541e-bfe2-40d0-b081-ca71c51b5045)
 
-A resource group in Azure is a container that organizes and manages related resources like virtual machines, storage, and applications
+
+A resource group in Azure is a container that organizes and manages related resources like virtual machines, storage, and applications.
 
 When you go to Resource Groups, in the top left it will say "Create Resource Group" and this page will come up. Use your subscription you used to set up your Azure account, name your gruop, and then selectyour region.
-! [image]
+
+![image](https://github.com/user-attachments/assets/5ee0f022-4278-4e23-9411-6a813d43f9e5)
 
 After you set up your subscription, name, and region, click through review and create.
-! [image]
+![image](https://github.com/user-attachments/assets/54074f5f-2776-48e7-a838-fc03382e5c80)
+
+
 
 # Creating Your Virtual Network
 
