@@ -71,7 +71,7 @@ Click through to Review and Create and wait for the deployment to finish. Once d
 
 ![image](https://github.com/user-attachments/assets/9606fbcf-7253-4be3-a7de-6783e6c6a3d7)
 
-This demonstration is now complete. This tutorial explained how to configure a Virtual Network and Virtual Machines in Microsoft Azure. We are able to add more machines to the network by following the same steps used above, and both VM's would be on the same Virtual Network!
+This demonstration is now complete. This tutorial explained how to configure a Virtual Network and Virtual Machine in Microsoft Azure. We are able to add more machines to the network by following the same steps used above, and both VM's would be on the same Virtual Network!
 
 
 
